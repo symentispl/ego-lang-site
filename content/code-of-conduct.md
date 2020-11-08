@@ -1,6 +1,8 @@
 ---
 title: Kodeks postępowania
-menu: main
+menu: 
+    main:
+        weight: 20
 ---
 
 1. Twój kod to nie Ty. Jeśli tak twierdzisz, potrzebujesz pomocy. Krytyczne wypowiedzi na tematu kod, są mile widziane.

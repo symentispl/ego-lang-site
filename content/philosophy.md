@@ -1,6 +1,8 @@
 ---
 title: Filozofia
-menu: main
+menu: 
+    main:
+        weight: 10
 ---
 
 # Filozofia
@@ -16,15 +18,17 @@ Unikaj niespodzianek, wszelkich niespodzianek. Programowanie to nie pudełko cze
 
 Jeśli jakaś koncepcja w Ego spowoduje chociaż cień niepewności, zaskoczenia.
 
-* brak wartości zerowych
-* brak reguł przymusu
-* brak pierwszeństwa operatora
-* brak oświadczeń
-* brak stanu globalnego
+Poniżej niepełna lista niespodzianek, których nie spotkasz w Ego:
+
+* `null` 
+* niejawna konwersja typów
+* pierwszeństwa operatorów
+* brak instrukcji, wszystko jest wyrażeniem
+* stan globalny
 
 ## mniej znaczy więcej
 
-Mniej znaczy więcej. Nie ma nic więcej, niż można powiedzieć. Ego ma minimalny zestaw pojęć, które musisz znać i rozumieć.
+Mniej znaczy więcej.
 
 * funkcje
 * obiekty
@@ -32,13 +36,6 @@ Mniej znaczy więcej. Nie ma nic więcej, niż można powiedzieć. Ego ma minima
 * atrybuty
 * możliwości
 
-## wolne od ideologii
-
-Nie chcemy być czysto, funkcjonalnie, czysto obiektowo. Chcemy być brudni, ponieważ chcemy wykonać swoją pracę. Trzymamy się z daleka od wojen płomieni, dyskusji na Twitterze i każdego, kto próbuje udowodnić, że jest słuszny. Jeśli Twój język lub paradygmat jest właściwy, mamy dla Ciebie wiadomość. Otwórz swój umysł i odpieprz się.
-
-* jesteśmy statyczni czy dynamiczni? generalnie jesteśmy statyczni, ale w razie potrzeby dynamiczni lub odwrotnie
-* mocno czy słabo wpisane? kogo to obchodzi
-* funkcjonalne czy OOP? oboje kochamy funkcje, ale też kochamy przedmioty,
-* istnieje więcej niż jeden rodzaj polimorfizmu, ciesz się nimi wszystkimi
+## wolni od ideologii
 
 

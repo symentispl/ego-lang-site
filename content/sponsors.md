@@ -1,6 +1,8 @@
 ---
 title: Sponsorzy
-menu: main
+menu: 
+    main:
+        weight: 30
 ---
 
 Ego powstaje w czasie wolnym, jest projektem hobbistycznym. 
