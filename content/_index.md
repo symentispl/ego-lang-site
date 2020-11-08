@@ -8,6 +8,8 @@ Celem Ego jest prezentacja koncepcji i technik wykorzystywanych przez twórców 
 
 Jeśli chciałbyś zrozumieć jak działają języki programowania, jesteś we właścimy miejscu.
 
+{{< youtube delxeBt0xRA >}}
+
 
 **Czym Ego nie jest?**
 
