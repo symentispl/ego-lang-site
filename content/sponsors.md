@@ -1,7 +1,7 @@
 ---
 title: Sponsorzy
 menu: 
-    main:
+    sidebar:
         weight: 30
 ---
 

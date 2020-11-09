@@ -1,6 +1,6 @@
 ---
 title: FAQ
 menu: 
-    main:
+    sidebar:
         weight: 40
 ---

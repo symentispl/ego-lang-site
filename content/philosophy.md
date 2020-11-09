@@ -1,7 +1,7 @@
 ---
 title: Filozofia
 menu: 
-    main:
+    sidebar:
         weight: 10
 ---
 

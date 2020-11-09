@@ -1,7 +1,7 @@
 ---
 title: Kodeks postępowania
 menu: 
-    main:
+    sidebar:
         weight: 20
 ---
 

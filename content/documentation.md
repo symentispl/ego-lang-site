@@ -1,7 +1,7 @@
 ---
 title: Dokumentacja
 menu:
-    main:
+    sidebar:
         weight: 5
 ---
 

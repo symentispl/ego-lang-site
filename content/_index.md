@@ -6,10 +6,11 @@ Ego jest językiem programowania, który powstał na potrzeby czysto edukacyjne.
 
 Celem Ego jest prezentacja koncepcji i technik wykorzystywanych przez twórców języków programowania.
 
-Jeśli chciałbyś zrozumieć jak działają języki programowania, jesteś we właścimy miejscu.
+Jeśli chciałbyś zrozumieć jak działają języki programowania, jesteś we właściwym miejscu.
 
 {{< youtube delxeBt0xRA >}}
 
+--- 
 
 **Czym Ego nie jest?**
 
