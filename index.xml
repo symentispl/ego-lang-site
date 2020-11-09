@@ -1,41 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ego - edukacyjny język programowania</title>
-    <link>https://egolang.codes/</link>
-    <description>Recent content on Ego - edukacyjny język programowania</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
-    
-	<atom:link href="https://egolang.codes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <title>Ego</title>
+    <link>htts://egolang.codes/</link>
+    <description>Recent content on Ego</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="htts://egolang.codes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dokumentacja</title>
-      <link>https://egolang.codes/documentation/</link>
+      <link>htts://egolang.codes/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egolang.codes/documentation/</guid>
+      <guid>htts://egolang.codes/documentation/</guid>
       <description>Poznaj Ego Motywacja Inspiracje Lista inspiracji jest krótka, jednak Ego by nie powstał gdyby nie lektura specyfikacji LISP (w szczególności Common LISP i Scheme), Smalltalk i Pony.
 Jak zbudować projekt Rozdział 0. Składania i semantyka Ego (fn greeting (name Str) (+ &amp;#34;Hello &amp;#34; name) ) (fn main (args Str[]) (println (greeting &amp;#34;Ego&amp;#34;)) Rozdział 1. Lekser Rozdział 2. Parsery Rozdział 3. Drzewa Rozdział 4. Interpreter Rozdział 5. REPL </description>
     </item>
     
     <item>
       <title>FAQ</title>
-      <link>https://egolang.codes/faq/</link>
+      <link>htts://egolang.codes/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egolang.codes/faq/</guid>
+      <guid>htts://egolang.codes/faq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filozofia</title>
-      <link>https://egolang.codes/philosophy/</link>
+      <link>htts://egolang.codes/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egolang.codes/philosophy/</guid>
+      <guid>htts://egolang.codes/philosophy/</guid>
       <description>Filozofia Ego nie jest przemyślanym językiem programowania. Jest zbiorem paradygmatów, koncepcji i technik, które twórcy Ego uważają za ciekawe. Ciekawe nie tylko ze względu na abstrakcje, które wprowadzają, ale także ciekawe ze względu na wyzwania, które stawiają przed twórcami podczas ich implementacji.
 Aby nie popaść w odmęty chaosu, prezentujemy poniżej zbiór zasad, którymi kierujemy się podczas pracy nad Ego.
 bez niespodzianek Unikaj niespodzianek, wszelkich niespodzianek. Programowanie to nie pudełko czekoladek. Tutaj nie ma miejsca na fajerwerki, fontanny, wodotryski i pola minowe.</description>
@@ -43,19 +37,19 @@ bez niespodzianek Unikaj niespodzianek, wszelkich niespodzianek. Programowanie t
     
     <item>
       <title>Kodeks postępowania</title>
-      <link>https://egolang.codes/code-of-conduct/</link>
+      <link>htts://egolang.codes/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egolang.codes/code-of-conduct/</guid>
+      <guid>htts://egolang.codes/code-of-conduct/</guid>
       <description>Twój kod to nie Ty. Jeśli tak twierdzisz, potrzebujesz pomocy. Krytyczne wypowiedzi na tematu kod, są mile widziane. Prawo do krytykowania kodu, daje nam też prawo do ignorowania wszelkiej krytyki. Zbyt poważne traktowanie tego projektu jest zakazane. Jeśli się z tym nie zgadzasz, masz do tego pełne prawo, jednakże zwalnia nas to w takim przypadku z jakiejkolwiek odpowiedzialności. Sarkazm jest najwyższą formą komunikacji. Jeśli masz z tym problem, niestety nie jesteśmy w stanie zbyt wiele z tym zrobić.</description>
     </item>
     
     <item>
       <title>Sponsorzy</title>
-      <link>https://egolang.codes/sponsors/</link>
+      <link>htts://egolang.codes/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egolang.codes/sponsors/</guid>
+      <guid>htts://egolang.codes/sponsors/</guid>
       <description>Ego powstaje w czasie wolnym, jest projektem hobbistycznym.
 Nie powstałby gdyby nie pomoc, wsparcie Symentis oraz Segfault.</description>
     </item>

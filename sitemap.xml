@@ -3,40 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://egolang.codes/</loc>
+    <loc>htts://egolang.codes/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://egolang.codes/blog/</loc>
+    <loc>htts://egolang.codes/authors/</loc>
   </url>
   
   <url>
-    <loc>https://egolang.codes/categories/</loc>
+    <loc>htts://egolang.codes/blog/</loc>
   </url>
   
   <url>
-    <loc>https://egolang.codes/documentation/</loc>
+    <loc>htts://egolang.codes/categories/</loc>
   </url>
   
   <url>
-    <loc>https://egolang.codes/faq/</loc>
+    <loc>htts://egolang.codes/documentation/</loc>
   </url>
   
   <url>
-    <loc>https://egolang.codes/philosophy/</loc>
+    <loc>htts://egolang.codes/faq/</loc>
   </url>
   
   <url>
-    <loc>https://egolang.codes/code-of-conduct/</loc>
+    <loc>htts://egolang.codes/philosophy/</loc>
   </url>
   
   <url>
-    <loc>https://egolang.codes/sponsors/</loc>
+    <loc>htts://egolang.codes/code-of-conduct/</loc>
   </url>
   
   <url>
-    <loc>https://egolang.codes/tags/</loc>
+    <loc>htts://egolang.codes/series/</loc>
+  </url>
+  
+  <url>
+    <loc>htts://egolang.codes/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>htts://egolang.codes/tags/</loc>
   </url>
   
 </urlset>
