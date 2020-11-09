@@ -127,10 +127,10 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "Kod źródłowy"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://github.com/symentispl/ego-lang"
 
 [blackfriday]
 hrefTargetBlank = true
