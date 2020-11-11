@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-J34FBY1HH9"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -72,17 +72,11 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+facebook = "segfaultevents"
+github = "symentispl"
+linkedin = "segfaultevents"
+twitter = "segfaultevents"
+youtube = "UCV38Do_3C5uVk3lWePkyxTA"
 
 [params.comments]
 enable = false
@@ -106,8 +100,8 @@ enable = false
 issueTerm = "pathname" # pathname / url / title
 
 [params.comments.utterances.github]
-username = "MunifTanjim"
-repository = "minimo"
+username = "symentispl"
+repository = "ego-lang-site"
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
