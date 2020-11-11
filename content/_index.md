@@ -1,4 +1,4 @@
-# Ego - edukacyjny język programowania
+# Ego - nauka programowania przez napisanie własnego języka?
 
 **Czym jest Ego?**
 
